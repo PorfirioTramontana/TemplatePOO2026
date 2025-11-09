@@ -1,4 +1,4 @@
-# Project Template
+# Progetto ST: pipeline di analisi del codice
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=alert_status)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=coverage)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
