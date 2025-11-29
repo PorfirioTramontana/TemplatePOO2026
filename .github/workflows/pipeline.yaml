@@ -32,11 +32,16 @@ jobs:
           distribution: 'zulu'
           cache: 'maven'
 
-      - name: Build and analyze
+      - name: Build and Test
+        id: maven-build
+        run: mvn -B verify
+
+      - name: Sonar Analysis
+        if: success() || failure()
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: > 
-          mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
+          mvn -B org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
           -Dsonar.projectKey=${{ github.repository_owner }}_${{ github.event.repository.name }} 
           -Dsonar.qualitygate.wait=true
 
@@ -50,6 +55,7 @@ jobs:
 
       - name: Publish Code Coverage Report
         uses: madrapps/jacoco-report@v1.6
+        if: success() || failure()
         with:
           paths: ${{ github.workspace }}/target/site/jacoco/jacoco.xml
           token: ${{ secrets.GITHUB_TOKEN }}
