@@ -1,6 +1,6 @@
 # Progetto ST: pipeline di analisi del codice
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_Progetto-OOBD-2021-2022&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=coverage)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=bugs)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
