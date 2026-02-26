@@ -44,7 +44,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: > 
           mvn -B org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
-          -Dsonar.projectKey=${{ github.repository_owner }}_${{ github.event.repository.name }} 
+          -Dsonar.projectKey=${{ github.repository_owner }}_PorfirioTramontana_TemplatePOO2026 
           -Dsonar.qualitygate.wait=true
 
       - name: Publish Test Report
