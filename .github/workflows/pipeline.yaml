@@ -48,6 +48,12 @@ jobs:
           -Dsonar.projectKey=${{ github.repository_owner }}_${{ github.event.repository.name }} 
           -Dsonar.qualitygate.wait=true
 
+      - name: Upload SonarQube Report Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: sonar-scan-results
+          path: .scannerwork/          
+
       - name: Publish Test Report
         uses: dorny/test-reporter@v1
         if: success() || failure()
@@ -57,15 +63,6 @@ jobs:
           reporter: java-junit
           fail-on-error: 'false'
 
-      - name: Another Test Report
-        uses: dorny/test-reporter@v2
-        with:        
-          name: JEST Tests                  # Name of the check run which will be created
-          artifact: test-results            # artifact name
-          path: '*.xml'                     # Path to test results (inside artifact .zip)
-          reporter: jest-junit              # Format of test results
-          fail-on-error: 'false'
-        
       - name: Publish Code Coverage Report
         uses: madrapps/jacoco-report@v1.6
         if: success() || failure()
