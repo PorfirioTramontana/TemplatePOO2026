@@ -1,4 +1,5 @@
 # Progetto ST: pipeline di analisi del codice
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-highlight.svg)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_TemplatePOO2026)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 
