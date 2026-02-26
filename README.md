@@ -79,7 +79,7 @@ In the `.github/workflows/pipeline.yaml` file, update the `java-version` in the 
 
 ## How It Works
 
-From now on, the process is automatic:
+From now on, the process is automatic: 
 
 *   **On every `push` to the `main` branch**: GitHub Actions will trigger the workflow, compile the code, run the tests, and send a full analysis to SonarCloud, updating the project's dashboard.
 *   **When you open a `Pull Request`**: The workflow will run, and SonarCloud will post a **summary comment** directly on the Pull Request page, showing you the impact of your changes on code quality before you even merge them.
