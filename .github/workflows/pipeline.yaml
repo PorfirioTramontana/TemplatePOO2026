@@ -53,7 +53,6 @@ jobs:
           name: JUnit Test Results
           path: target/surefire-reports/*.xml
           reporter: java-junit
-
       - name: Publish Code Coverage Report
         uses: madrapps/jacoco-report@v1.6
         if: success() || failure()
