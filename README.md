@@ -1,10 +1,10 @@
 # Progetto ST: pipeline di analisi del codice
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=alert_status)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=coverage)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=bugs)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=LuigiVessella_Applicativov2&metric=code_smells)](https://sonarcloud.io/project/configuration?id=LuigiVessella_Applicativov2)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=coverage)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=bugs)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=code_smells)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 
 
 > **Important:** After forking this repository, you **must** edit this `README.md` file. Replace all instances of `Redy1908_Applicativo` in the above links with  `YourGithHubUsername_Applicativo`. Once you have done this, and followed the setup instructions below, you can delete this note and the instructions.
