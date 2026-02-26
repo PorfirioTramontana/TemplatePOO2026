@@ -6,9 +6,6 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=code_smells)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 
-
-
-[![AI Code Assurance](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=ai_code_assurance)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_TemplatePOO2026)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_TemplatePOO2026)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_TemplatePOO2026)
@@ -16,7 +13,7 @@
 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_TemplatePOO2026)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=PorfirioTramontana_TemplatePOO2026)
-[![Security Hotspots](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+
 
 
 > **Important:** After forking this repository, you **must** edit this `README.md` file. Replace all instances of `Redy1908_Applicativo` in the above links with  `YourGithHubUsername_Applicativo`. Once you have done this, and followed the setup instructions below, you can delete this note and the instructions.
