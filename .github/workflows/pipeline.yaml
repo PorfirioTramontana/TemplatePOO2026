@@ -47,17 +47,7 @@ jobs:
           mvn -B org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
           -Dsonar.projectKey=${{ github.repository_owner }}_${{ github.event.repository.name }} 
           -Dsonar.qualitygate.wait=true
-
-      - name: Find report-task.txt
-        if: success() || failure()
-        run: find . -name "report-task.txt"
-  
-      - name: Upload SonarQube Report Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: sonar-scan-results
-          path: ./target/sonar/report-task.txt
-          
+         
       - name: Publish Test Report
         uses: dorny/test-reporter@v1
         if: success() || failure()
