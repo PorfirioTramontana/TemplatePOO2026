@@ -4,6 +4,7 @@ on:
     paths:
       - 'src/**'
       - 'pom.xml'
+      - 'README.md'
       - '.github/workflows/pipeline.yaml'
     branches:
       - main
@@ -44,7 +45,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: > 
           mvn -B org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
-          -Dsonar.projectKey=templatepoo202_templatepoo2026 
+          -Dsonar.projectKey=templatepoo202_templatePOO2026 
           -Dsonar.qualitygate.wait=true
 
       - name: Publish Test Report
