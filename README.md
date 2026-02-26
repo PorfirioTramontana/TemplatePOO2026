@@ -1,10 +1,10 @@
 # Progetto ST: pipeline di analisi del codice
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_Progetto-OOBD-2021-2022&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_Progetto-OOBD-2021-2022)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_Progetto-OOBD-2021-2022&metric=coverage)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_Progetto-OOBD-2021-2022)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_Progetto-OOBD-2021-2022&metric=bugs)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_Progetto-OOBD-2021-2022)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_Progetto-OOBD-2021-2022&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_Progetto-OOBD-2021-2022)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_Progetto-OOBD-2021-2022&metric=code_smells)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_Progetto-OOBD-2021-2022)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=alert_status)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=coverage)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=bugs)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=vulnerabilities)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=PorfirioTramontana_TemplatePOO2026&metric=code_smells)](https://sonarcloud.io/project/configuration?id=PorfirioTramontana_TemplatePOO2026)
 
 
 > **Important:** After forking this repository, you **must** edit this `README.md` file. Replace all instances of `Redy1908_Applicativo` in the above links with  `YourGithHubUsername_Applicativo`. Once you have done this, and followed the setup instructions below, you can delete this note and the instructions.
